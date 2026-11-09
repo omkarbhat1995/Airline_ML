@@ -100,7 +100,3 @@ model = joblib.load('Models/ridge_model.pkl')
 # predictions = model.predict(X_new_transformed)
 ```
 
-## 🤝 Let's Connect
-Feel free to reach out if you have any questions or want to discuss Data Science, Machine Learning, or Systems Engineering!
-* [LinkedIn](https://linkedin.com/in/omkar-bhat-bb85475a)
-* [GitHub Profile](https://github.com/omkarbhat1995)
